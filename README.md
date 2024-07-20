@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuuguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuuguptaa" /> </p>
 
-- 🔭 I’m currently working on personal projects **Techheaven**
+- 🔭 I’m currently working on personal projects
 
 - 🌱 I’m currently learning **REACTJS, NEXTJS, TAILWIND, using javascript and Typescript**
 
